@@ -9,6 +9,10 @@ This repository hosts SmartMeet, an automated tool that effectively summarizes m
 
 # Installation Steps
 ## UI
+```angular2html
+npm install
+npm run dev
+```
 
 ## Backend Technologies
 ### Java
